@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 14 21:34:52 CST 2023
+@default-aliyunmaven-https\://maven.aliyun.com/repository/public/.lastUpdated=1699968892537
+https\://maven.aliyun.com/repository/public/.error=Could not transfer artifact org.apache.velocity\:velocity-tools\:jar\:2.0 from/to aliyunmaven (https\://maven.aliyun.com/repository/public)\: transfer failed for https\://maven.aliyun.com/repository/public/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar
